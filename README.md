@@ -6,8 +6,8 @@ Webフルスタックエンジニア
 | 熟練度 | 技術 |
 | --- | --- |
 | 上級 | Python |
-| 中級 | Node.js, PHP, Vue, Laravel, GitHub |
-| 初級 | Electron, Django, Flask, FastAPI, Docker, GitHubActions, CircleCI |
+| 中級 | Node.js, PHP, Vue, Laravel, GitHub, Heroku |
+| 初級 | Electron, Django, Flask, FastAPI, AWS, Docker, GitHubActions, CircleCI |
 
 #### 経歴
 
