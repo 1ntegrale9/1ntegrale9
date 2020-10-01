@@ -6,38 +6,15 @@
 
 ## スキルセット
 
-### Python
-- 日常生活にて常用
-- 高専および大学の卒業研究にて使用
-- コミュニティ 「PythonJP」 にて質問対応、Manager役職
-- コミュニティ 「Discord Bot Portal JP」 にて質問対応、講習会講師、システム構築・運営
-- スキル： 数理統計|自然言語処理|機械学習|非同期処理
-- ライブラリ： numpy||discord.py|aiohttp|requests
+### 上級
+- Python
 
-### JavaScript|Node.js
-- 現職にて使用
-- ライブラリ: typescript|webpack|babel|eslint|jest|glob|axios|Svg.js
+### 中級
+Node.js|PHP|Vue|Laravel|GitHub
 
-### PHP
-- 現職にて使用
-- ライブラリ: phpmd|phpunit|mockery
-
-### 各種フレームワーク
-- Vue.js
-- Laravel
-- Electron
-- Django
-- Flask
-- FastAPI
-
-### その他
-- GitHub
-- GitHub Actions
-- Circle CI
-- Docker
+### 初級
+Electron|Django|Flask|FastAPI|GitHub Actions|Circle CI|Docker
 
 ## 出身
 - 茨城工業高等専門学校/電子情報工学科
-  - 卒業研究「旋律の新規性ツールに関する研究」
 - 豊橋技術科学大学/情報・知能工学課程/自然言語処理研究室
-  - 卒業研究「分散意味表現を用いた医療文書への医療コード付与」
