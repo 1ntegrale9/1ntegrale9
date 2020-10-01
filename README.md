@@ -6,19 +6,19 @@
 
 ## スキルセット
 
-### Python（8年）
+### Python
 - 日常生活にて常用
 - 高専および大学の卒業研究にて使用
-- コミュニティ 「PythonJP」 にて質問対応 （Manager役職）
-- コミュニティ 「Discord Bot Portal JP」 にて質問対応および講習
+- コミュニティ 「PythonJP」 にて質問対応、Manager役職
+- コミュニティ 「Discord Bot Portal JP」 にて質問対応、講習会講師、システム構築・運営
 - スキル： 数理統計|自然言語処理|機械学習|非同期処理
 - ライブラリ： numpy||discord.py|aiohttp|requests
 
-### JavaScript|Node.js（3年）
+### JavaScript|Node.js
 - 現職にて使用
 - ライブラリ: typescript|webpack|babel|eslint|jest|glob|axios|Svg.js
 
-### PHP（3年）
+### PHP
 - 現職にて使用
 - ライブラリ: phpmd|phpunit|mockery
 
