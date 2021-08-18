@@ -6,6 +6,6 @@
   - オンラインツール開発 (Laravel, Vue.js)
   - クライアントツール開発 （Electron, Vue.js)
   - BIツール開発 （Python, GAS)
-- Discord Bot Portal JP 所属
+- Discord Bot Portal JP(オンラインコミュニティ) 所属
   - プロジェクトリーダー 3年目
   - コミュニティシステム開発 (Python)
