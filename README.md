@@ -1,11 +1,1 @@
-- 千株式会社(SEN CORPORATION) 所属
-  - QAエンジニア 1年目
-  - フルスタックエンジニア 3年
-  - スクラムマスター 1年
-  - ECサイト開発 （Ethnam, jQUery)
-  - オンラインツール開発 (Laravel, Vue.js)
-  - クライアントツール開発 （Electron, Vue.js)
-  - BIツール開発 （Python, GAS)
-- Discord Bot Portal JP(オンラインコミュニティ) 所属
-  - コミュニティオーナー 3年目
-  - コミュニティシステム開発 (Python)
+community researcher
